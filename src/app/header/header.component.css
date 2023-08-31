@@ -1,0 +1,47 @@
+header {
+	background: url('http://www.autodatz.com/wp-content/uploads/2017/05/Old-Car-Wallpapers-Hd-36-with-Old-Car-Wallpapers-Hd.jpg');
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+	border-radius: 0 0 85% 85% / 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+header .overlay{
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 15px #333;
+  background-image: url('https://img.freepik.com/free-vector/people-with-flags-protest-against-war-ukraine_107791-11620.jpg?w=1380&t=st=1693471306~exp=1693471906~hmac=b3320455b8a8c5a62b2e9e3b51b177e1528a725d0357eb86744b847d5cd710c8');
+	
+}
+
+h1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+button {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 30px 0 #0000003b;
+    font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+    font-weight: 700;
+}
+button:hover{
+	cursor: pointer;
+}

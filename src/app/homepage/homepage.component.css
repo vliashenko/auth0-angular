@@ -1,0 +1,17 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 10px;
+}
+
+p {
+    font-family: 'Dancing Script', cursive;
+	font-size: 40px;
+}
